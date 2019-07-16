@@ -1,0 +1,689 @@
+{
+  "name": "root",
+  "children": [
+    { 
+    "name": "Other Youtubers",
+    "children": [{
+      "name": "Canada",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 1294
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 2150
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 2217
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 2071
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 2285
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 1759
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 2160
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 936
+        }
+      ]},{
+      "name": "Germany",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 2033
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 3480
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 3337
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 3154
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 3471
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 2814
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 3238
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 1284
+        }
+      ]},{
+      "name": "France",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 2317
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 3927
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 3807
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 3694
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 4055
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 3262
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 3864
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 1522
+        }
+      ]},{
+      "name": "Great Britain",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 410
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 439
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 443
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 253
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 224
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 177
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 177
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 72
+        }
+      ]},{
+      "name": "USA",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 598
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 776
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 822
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 705
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 362
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 271
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 237
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 70
+        }
+      ]},{
+      "name": "India",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 992
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 1633
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 1512
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 1285
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 1234
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 870
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 959
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 357
+        }
+      ]},{
+      "name": "Russia",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 2663
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 4668
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 4426
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 4290
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 4603
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 3750
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 4457
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 1831
+        }
+      ]},{
+      "name": "South Korea",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 1363
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 2278
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 2078
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 1841
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 2033
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 1738
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 2031
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 841
+        }
+      ]},{
+      "name": "Japan",
+      "children": [
+        {
+          "name": "Feb-18",
+          "Number of videos": 2138
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 2796
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 2885
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 2754
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 936
+        }
+      ]},{
+      "name": "Mexico",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 2378
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 4083
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 3833
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 3838
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 4221
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 3359
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 3865
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 1636
+        }
+      ]
+    }]},{
+    "name": "top5K",
+    "children": [{
+      "name": "Canada",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 718
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 1329
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 1198
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 1206
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 1467
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 1241
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 1669
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 781
+        }
+      ]},{
+      "name": "Germany",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 503
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 955
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 898
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 896
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 960
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 782
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 1254
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 608
+        }
+      ]},{
+      "name": "France",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 286
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 552
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 497
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 515
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 573
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 486
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 797
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 462
+        }
+      ]},{
+      "name": "Great Britain",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 158
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 167
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 180
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 151
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 130
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 116
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 141
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 60
+        }
+      ]},{
+      "name": "USA",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 309
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 449
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 421
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 358
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 332
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 266
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 307
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 98
+        }
+      ]},{
+      "name": "India",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 618
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 1204
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 1149
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 1004
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 1087
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 851
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 1085
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 496
+        }
+      ]},{
+      "name": "Russia",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 276
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 526
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 467
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 503
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 533
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 443
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 602
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 273
+        }
+      ]},{
+      "name": "South Korea",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 123
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 228
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 240
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 212
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 254
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 246
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 292
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 168
+        }
+      ]},{
+      "name": "Japan",
+      "children": [
+        {
+          "name": "Feb-18",
+          "Number of videos": 191
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 302
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 269
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 400
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 246
+        }
+      ]},{
+      "name": "Mexico",
+      "children": [
+        {
+          "name": "Nov-17",
+          "Number of videos": 503
+        },
+        {
+          "name": "Dec-17",
+          "Number of videos": 1008
+        },
+        {
+          "name": "Jan-18",
+          "Number of videos": 900
+        },
+        {
+          "name": "Feb-18",
+          "Number of videos": 843
+        },
+        {
+          "name": "Mar-18",
+          "Number of videos": 919
+        },
+        {
+          "name": "Apr-18",
+          "Number of videos": 749
+        },
+        {
+          "name": "May-18",
+          "Number of videos": 1063
+        },
+        {
+          "name": "Jun-18",
+          "Number of videos": 472
+        }
+      ]
+    }]
+    
+  }]
+}

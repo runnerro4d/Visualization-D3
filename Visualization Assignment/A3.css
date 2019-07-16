@@ -1,0 +1,78 @@
+
+
+body{
+  margin: 0%;
+  padding: 0%;
+    width: 1000;
+    height: 1000;
+    background-color: black;
+}
+
+text{
+    fill: white;
+    font:10px;
+}
+
+div, h4, p{
+margin: 0px;
+padding: 0px;
+text-align: left;
+width:80px;
+font:14px sans-serif;
+height: 30px;
+text-decoration-color: white;
+color: white;}
+
+g{
+  padding-left: 10px;
+  margin-left: 10px; 
+}
+
+#parallel{
+    width: 1000;
+    height: 1000;
+}
+
+br {
+    margin: 0px;
+padding: 0px;
+}
+
+h2{
+    font: 40px sans-serif;
+    margin: 0px;
+padding: 0px;
+text-decoration-color: #fff;
+}
+
+svg {
+    font: 10px sans-serif;
+  }
+  
+  .background path {
+    fill: none;
+    stroke: #111;
+    opacity: 0.1;
+  }
+  
+  .foreground path {
+    fill: none;
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis line,
+  .axis path {
+    fill:  #ddd;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    cursor: move;
+  }
+  
